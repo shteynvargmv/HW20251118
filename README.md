@@ -5,3 +5,6 @@
 
 ### Coins
  файл Coins.postman_collection.json
+
+### News
+ файл News.postman_collection.json
