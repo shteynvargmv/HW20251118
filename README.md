@@ -8,3 +8,6 @@
 
 ### 3. News
  файл News.postman_collection.json
+
+### 4. Recipes
+ файл Recipes.postman_collection.json
