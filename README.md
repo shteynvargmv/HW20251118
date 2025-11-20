@@ -2,3 +2,6 @@
 
 ### Countries
  файл Countries.postman_collection.json
+
+### Coins
+ файл Coins.postman_collection.json
